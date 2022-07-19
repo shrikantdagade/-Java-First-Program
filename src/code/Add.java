@@ -1,7 +1,7 @@
 package code;
 
 import java.util.Scanner;
-
+//comment line
 public class Add {
 	int a,b;
 	void input()
